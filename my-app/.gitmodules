@@ -1,0 +1,6 @@
+[submodule "my-app"]
+	path = my-app
+	url = git@github.com:ioablock/WHITELIST-DAPP.git
+[submodule "WHITELIST-DAPP"]
+	path = WHITELIST-DAPP
+	url = git@github.com:ioablock/WHITELIST-DAPP.git
